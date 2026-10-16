@@ -20,10 +20,3 @@ A responsive weather application built using **HTML, CSS, and JavaScript** that 
 ### Learning Outcomes
 This project helped me understand API integration, asynchronous JavaScript, DOM manipulation, event handling, and error handling.
 
-### How to Run
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
-3. Enter a city name and click **Search**.
-4. Explore the current weather information.
-
-**Built to practise JavaScript fundamentals and real-world API integration.**
